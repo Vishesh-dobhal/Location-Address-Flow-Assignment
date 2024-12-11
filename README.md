@@ -1,12 +1,2 @@
-<<<<<<< HEAD
-# Location-Address-Flow-Assignment
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> c85bc08 (Initial commit)
+In this project, I have used React JS along with Tailwind CSS for styling. Additionally, I have integrated Google Maps for location functionality. To maintain a clean and organized code structure, I have created four distinct components.
